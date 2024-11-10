@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/pauli/OneDrive/Documents/ITLA/2024-C3/DevOps/vagrantpractica8/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/pauli/OneDrive/Documents/ITLA/2024-C3/DevOps/vagrantpractica8","disabled":false,"__vagrantfile":true}}}
